@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <div align="left">
   
-  MINSU
+### MINSU 👋
   
   <a href="https://github.com/lookinmin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   
