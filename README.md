@@ -3,7 +3,8 @@
 ### MINSU 👋
   
   <a href="https://github.com/lookinmin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  
+  <a href="https://www.instagram.com/lookin_min" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:sncalphs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sncalphs@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.acmicpc.net/user/sncalphs"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat-square&logo=Bilibili&logoColor=white"/></a>
   
   #
@@ -18,7 +19,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
   <br>
 
   #
@@ -26,12 +29,12 @@
   
   #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sncalphs)](https://solved.ac/sncalphs)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sncalphs)
-   #
+
+  
    
   
   #### Trophy 🏆
-  ![trophy](https://github-profile-trophy.vercel.app/?username=lookinmin)
+  [trophy](https://github-profile-trophy.vercel.app/?username=lookinmin)
 
     
   </div>
