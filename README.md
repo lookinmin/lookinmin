@@ -26,15 +26,17 @@
 
   #
   
-  #### AWARDS - 수상경력
-  1. 2022 한국관광공사 - 관광데이터 활용 공모전 (장려상)
-  2. 2022 충북 ICT 메이커톤 - 우수상(전체 2등)
+  #### AWARDS - 수상경력 🏆
+  1. 🏆 2022 한국관광공사 - 관광데이터 활용 공모전 (장려상)
+  2. 🏆 2022 충북 ICT 메이커톤 - 우수상(전체 2등)
+  
+    #
   
   #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sncalphs)](https://solved.ac/sncalphs)
 
   
-   
+   #
   
   #### Trophy 🏆
   ![trophy](https://github-profile-trophy.vercel.app/?username=lookinmin)
