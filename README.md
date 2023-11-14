@@ -28,11 +28,16 @@
   
   #### AWARDS - 수상경력 🏆
   1. 🏆 2022 한국관광공사 Tour API 4.0 with Kakao - 관광데이터 활용 공모전 : 장려상
+     - Festival-ing : Fing
   2. 🏆 2022 충북 ICT 메이커톤 - 우수상(전체 2등)
+     - P.I Shield
   3. 🏆 2022년도 1학기 오픈소스 웹 소프트웨어 교과기반 프로젝트 우수상 prof. Aziz
   4. 🏆 2023 한국관광공사 Tour API 4.0 with Kakao - 관광데이터 활용 공모전 : 우수상
+     - OFFSIDE
   5. 🏆 2023 공개SW 개발자대회 동상 - 비아웹 대표상
+     - AI를 활용한 Online Judge Coding Coach : COCO
   6. 🏆 2023 충북대학교 전자정보대학 캡스톤 디자인 발표회(졸업작품) - 대상(전체 1등)
+     - AI를 활용한 Online Judge Coding Coach : COCO
   
   #
   
