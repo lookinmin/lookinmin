@@ -1,6 +1,7 @@
 <div align="left">
   
 ### MINSU 👋
+### @lookin_min
   
   <a href="https://github.com/lookinmin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.instagram.com/lookin_min" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -38,6 +39,14 @@
      - AI를 활용한 Online Judge Coding Coach : COCO
   6. 🏆 2023 충북대학교 전자정보대학 캡스톤 디자인 발표회(졸업작품) - 대상(전체 1등)
      - AI를 활용한 Online Judge Coding Coach : COCO
+  #
+
+  #### History after 20 - 연혁
+  2018 - 충북대학교 소프트웨어학과 입학
+  2019 - 충북대학교 소프트웨어학과 CGAC 동아리 사무차장
+  2019.07 ~ 2020.02 - 육군 복무
+  2022 - 충북대학교 전자정보대학 제 21대 EQUALITY 학생회 정책기획국장 / 충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
+  2023 - 충북대학교 전자정보대학 제 22대 SUMMIT 학생회 복지국장 / 충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
   
   #
   
