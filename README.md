@@ -61,7 +61,7 @@
 
   #### Certificate - 취득 자격증
   1. 정보처리기사
-      - 2023.11.15
+    - 2023.11.15
   
   #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sncalphs)](https://solved.ac/sncalphs)
