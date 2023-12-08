@@ -46,7 +46,9 @@
   6. 🏆 2023 공개SW 개발자대회 동상 - 비아웹 대표상
      - AI를 활용한 Online Judge Coding Coach : COCO
        - 2023.12.01 from 과학기술정보통신부 
-
+  7. 🏆 2023 오픈소스SW 동아리 최종 발표회 - 최우수상
+     - AI를 활용한 Online Judge Coding Coach : COCO
+       - 2023.12.08 from 충북대학교 SW중심사업단
   #
 
   #### History after 20 - 연혁
@@ -63,6 +65,8 @@
   #### Certificate - 취득 자격증
   1. 정보처리기사
     - 2023.11.15
+
+  #
   
   #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sncalphs)](https://solved.ac/sncalphs)
