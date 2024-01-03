@@ -76,7 +76,7 @@
   : React, Flutter, BootStrap, Mui, FastAPI, Android Studio
 
   - Libraries <br/>
-  : React-Query, Axios, React-Redux, Recoil, React-responsive, MediaQuery, Styled-components
+  : React-Query, Axios, React-Redux, Recoil, React-responsive, MediaQuery, Styled-components, jQuery
 
   - Database <br/>
   : MySQL, Firebase, MongoDB
