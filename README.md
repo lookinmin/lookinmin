@@ -67,6 +67,35 @@
     - 2023.11.15
 
   #
+
+  #### I Can Handle it
+  - Programming Language <br/>
+  Python3, JavaScript, TypeScript, Dart, C, C++
+
+  - Framwork
+  React, Flutter, BootStrap, Mui, FastAPI, Android Studio
+
+  - Libraries
+  React-Query, Axios, React-Redux, Recoil, React-responsive, MediaQuery, Styled-components
+
+  - Database
+  MySQL, Firebase, MongoDB
+
+  - Cooperation
+  Git / Github, JIRA, Figma
+  
+  #### NOW I am Interested in
+  - React TS
+  - React Query
+  - AWS S3 CloudFront
+  - CDN
+  - Mui
+  - Styled-components
+  - Redux-toolkit
+  - Travis CI
+  - NEXT.js (SSR)
+
+  #
   
   #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sncalphs)](https://solved.ac/sncalphs)
