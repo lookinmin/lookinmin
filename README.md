@@ -70,19 +70,19 @@
 
   #### I Can Handle it
   - Programming Language <br/>
-  Python3, JavaScript, TypeScript, Dart, C, C++
+  : Python3, JavaScript, TypeScript, Dart, C, C++
 
-  - Framwork
-  React, Flutter, BootStrap, Mui, FastAPI, Android Studio
+  - Framwork <br/>
+  : React, Flutter, BootStrap, Mui, FastAPI, Android Studio
 
-  - Libraries
-  React-Query, Axios, React-Redux, Recoil, React-responsive, MediaQuery, Styled-components
+  - Libraries <br/>
+  : React-Query, Axios, React-Redux, Recoil, React-responsive, MediaQuery, Styled-components
 
-  - Database
-  MySQL, Firebase, MongoDB
+  - Database <br/>
+  : MySQL, Firebase, MongoDB
 
-  - Cooperation
-  Git / Github, JIRA, Figma
+  - Cooperation <br/>
+  : Git / Github, JIRA, Figma
   
   #### NOW I am Interested in
   - React TS
