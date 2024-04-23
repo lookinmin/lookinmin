@@ -68,9 +68,9 @@
 
   #
 
-  #### I Can Handle it
+  #### 🔭 I Can Handle it
   - Programming Language <br/>
-  : Python3, JavaScript, TypeScript, Dart, C, C++
+  : JavaScript, TypeScript, Python3, Dart, C, C++
 
   - Framwork <br/>
   : React, Flutter, BootStrap, Mui, FastAPI, Android Studio
@@ -84,16 +84,15 @@
   - Cooperation <br/>
   : Git / Github, JIRA, Figma
   
-  #### NOW I am Interested in
-  - React TS
-  - React Query
-  - AWS S3 CloudFront
+  #### 🌱 NOW I am Interested in
+  - PWA
+  - Webpack
+  - AWS S3, CloudFront
   - CDN
-  - Mui
-  - Styled-components
   - Redux-toolkit
   - Travis CI
   - NEXT.js (SSR)
+  - Jest TDD
 
   #
   
