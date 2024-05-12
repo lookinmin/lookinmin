@@ -2,6 +2,9 @@
   
 ### MINSU 👋
 ### @lookin_min
+
+### Portfolio
+<a href = "https://lookinmin.vercel.app/">Click to my portfolio website</a>
   
   <a href="https://github.com/lookinmin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.instagram.com/lookin_min" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
