@@ -44,45 +44,48 @@
   #
   
   #### AWARDS - 수상경력 🏆
-  1. 🏆 2022년도 1학기 오픈소스전문프로젝트 교과기반 프로젝트 우수상
-     - Where You At? : WAY   
-       - 2022.06.30 from 충북대학교 SW중심사업단
-  2. 🏆 2022 한국관광공사 Tour API 4.0 with Kakao - 관광데이터 활용 공모전 : 장려상
-     - Festival-ing : Fing
-       - 2022.10.06 from 한국관광공사 & Kakao 
-  3. 🏆 2022 충청권 ICT 메이커톤 - 우수상(전체 2등)
-     - P.I Shield
-       - 2022.11.05 from 과학기술정보통신부
+  1. 🏆 2023 오픈소스SW 동아리 최종 발표회 - 최우수상
+     - AI를 활용한 Online Judge Coding Coach : COCO
+       - 2023.12.08 from 충북대학교 SW중심사업단
+  2. 🏆 2023 공개SW 개발자대회 동상 - 비아웹 대표상
+     - AI를 활용한 Online Judge Coding Coach : COCO
+       - 2023.12.01 from 과학기술정보통신부, (주)비아웹
+  3. 🏆 2023 한국관광공사 Tour API 4.0 with Kakao - 관광데이터 활용 공모전 : 우수상
+     - OFFSIDE
+       - 2023.11.29 from 한국관광공사 & Kakao
   4. 🏆 2023 충북대학교 전자정보대학 캡스톤 디자인 발표회(졸업작품) - 대상(전체 1등)
      - AI를 활용한 Online Judge Coding Coach : COCO
        - 2023.11.03 from 충북대학교 전자정보대학
-  5. 🏆 2023 한국관광공사 Tour API 4.0 with Kakao - 관광데이터 활용 공모전 : 우수상
-     - OFFSIDE
-       - 2023.11.29 from 한국관광공사 & Kakao 
-  6. 🏆 2023 공개SW 개발자대회 동상 - 비아웹 대표상
-     - AI를 활용한 Online Judge Coding Coach : COCO
-       - 2023.12.01 from 과학기술정보통신부 
-  7. 🏆 2023 오픈소스SW 동아리 최종 발표회 - 최우수상
-     - AI를 활용한 Online Judge Coding Coach : COCO
-       - 2023.12.08 from 충북대학교 SW중심사업단
+  5. 🏆 2022 충청권 ICT 메이커톤 - 우수상(전체 2등)
+     - P.I Shield
+       - 2022.11.05 from 과학기술정보통신부, 충북과학기술진흥원
+  6. 🏆 2022 한국관광공사 Tour API 4.0 with Kakao - 관광데이터 활용 공모전 : 장려상
+     - Festival-ing : Fing
+       - 2022.10.06 from 한국관광공사 & Kakao 
+  7. 🏆 2022년도 1학기 오픈소스전문프로젝트 교과기반 프로젝트 우수상
+     - Where You At? : WAY   
+       - 2022.06.30 from 충북대학교 SW중심사업단
+
   #
 
   #### History after 20 - 연혁
-  1. 2018 - 충북대학교 소프트웨어학과 입학
-  2. 2019 - 충북대학교 소프트웨어학과 CGAC 동아리 사무차장
+  1. 2023 - 충북대학교 전자정보대학 제 22대 SUMMIT 학생회 복지국장<br/>
+            충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
+  2. 2022 - 충북대학교 전자정보대학 제 21대 EQUALITY 학생회 정책기획국장<br/>
+            충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
   3. 2019.07 ~ 2020.02 - 육군 제 21사단 현역 복무
-  4. 2022 - 충북대학교 전자정보대학 제 21대 EQUALITY 학생회 정책기획국장<br/>
-            충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
-  6. 2023 - 충북대학교 전자정보대학 제 22대 SUMMIT 학생회 복지국장<br/>
-            충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
+  4. 2019 - 충북대학교 소프트웨어학과 CGAC 동아리 사무차장
+  5. 2018.03 - 충북대학교 소프트웨어학과 입학
+  6. 2018.01 - 반송고등학교 졸업
   
   #
 
   #### Certificate - 취득 자격증, 어학
-  1. 정보처리기사
-    - 2023.11.15
-  2. OPIc IH
+  1. OPIc IH
     - 2024.05.07.
+  2. 정보처리기사
+    - 2023.11.15
+  
   #
 
   #### 🔭 I Can Handle it
@@ -104,10 +107,8 @@
   #### 🌱 NOW I am Interested in
   - PWA
   - Webpack
-  - AWS S3, CloudFront
-  - CDN
   - Redux-toolkit
-  - Travis CI
+  - CI/CD
   - NEXT.js (SSR)
   - Jest TDD
 
@@ -116,13 +117,11 @@
   #### Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sncalphs)](https://solved.ac/sncalphs)
 
-  
   #
   
   #### Trophy 🏆
   ![trophy](https://github-profile-trophy.vercel.app/?username=lookinmin)
 
-    
   </div>
 
 </div>
