@@ -81,16 +81,19 @@
   #
 
   #### Certificate - 취득 자격증, 어학
-  1. OPIc IH
+  1. SQLD(개발자)
+    - 2024.09.20.
+  2. OPIc IH(Intermediate High)
     - 2024.05.07.
-  2. 정보처리기사
+  3. 정보처리기사
     - 2023.11.15.
   
   #
 
   #### 🔭 I Can Handle it
   - Programming Language <br/>
-  : JavaScript, TypeScript, Python3, Dart, C, C++
+  : JavaScript, TypeScript, Python3, Dart, C
+  : HTML5, CSS3
 
   - Framwork <br/>
   : React, Flutter, BootStrap, Mui, FastAPI, Android Studio
