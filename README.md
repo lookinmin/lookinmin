@@ -1,5 +1,6 @@
 <div align="left">
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!&fontSize=90)
+
 ### MINSU 👋
 ### @lookin_min
 
@@ -124,7 +125,7 @@
   ![trophy](https://github-profile-trophy.vercel.app/?username=lookinmin)
 
   </div>
-
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=&fontSize=90)
 </div>
 
 <!--
