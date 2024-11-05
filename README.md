@@ -8,6 +8,7 @@
   
   <a href="https://github.com/lookinmin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.instagram.com/lookin_min" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  [![Tech Blog Badge](http://img.shields.io/badge/-Velog-12b886?style=round-square&logo=Vimeo&logoColor=white&link=https://velog.io/@eugenie8/)](https://velog.io/@lookin_min)
   <a href="mailto:sncalphs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sncalphs@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.acmicpc.net/user/sncalphs"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat-square&logo=Bilibili&logoColor=white"/></a>
   
