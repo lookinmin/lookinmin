@@ -95,7 +95,7 @@
 
   #### 🔭 I Can Handle it
   - Programming Language <br/>
-  : JavaScript, TypeScript, Python3, Dart, C
+  : JavaScript, TypeScript, Python3, Dart, C <br/>
   : HTML5, CSS3
 
   - Framwork <br/>
@@ -105,7 +105,7 @@
   : React-Query, Axios, React-Redux, Recoil, React-responsive, MediaQuery, Styled-components, jQuery
 
   - Database <br/>
-  : MySQL, Firebase, MongoDB
+  : MySQL, Firebase, MongoDB, Oracle(PL/SQL)
 
   - Cooperation <br/>
   : Git / Github, JIRA, Figma
