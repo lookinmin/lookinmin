@@ -72,23 +72,25 @@
   #
 
   #### History after 20 - 연혁
-  1. 2023 - ○○대학교 전자정보대학 제 22대 SUMMIT 학생회 복지국장<br/>
-            ○○대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
-  2. 2022 - ○○대학교 전자정보대학 제 21대 EQUALITY 학생회 정책기획국장<br/>
-            ○○대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
-  3. 2019.07 ~ 2020.02 - 현역 복무
-  4. 2019 - ○○대학교 소프트웨어학과 CGAC 동아리 사무차장
-  5. 2018.03 - ○○대학교 소프트웨어학과 입학
-  6. 2018.01 - ○○고등학교 졸업
+  1. 2025.02 - 서울우유협동조합 경영정보팀 입사
+  2. 2024.02 - 충북대학교 소프트웨어학과 학사 졸업
+  3. 2023 - 충북대학교 전자정보대학 제 22대 SUMMIT 학생회 복지국장<br/>
+            충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
+  4. 2022 - 충북대학교 전자정보대학 제 21대 EQUALITY 학생회 정책기획국장<br/>
+            충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
+  5. 2019.07 ~ 2020.02 - 현역 복무
+  6. 2019 - 충북대학교 소프트웨어학과 CGAC 동아리 사무차장
+  7. 2018.03 - 충북대학교 소프트웨어학과 입학
+  8. 2018.01 - 반송고등학교 졸업
   
   #
 
   #### Certificate - 취득 자격증, 어학
-  1. SQLD(개발자)
+  1. SQL개발자 (SQLD) - 한국데이터산업진흥원
     - 2024.09.20.
-  2. OPIc IH(Intermediate High)
+  2. OPIc IH(Intermediate High) - ACTFL
     - 2024.05.07.
-  3. 정보처리기사
+  3. 정보처리기사 - 한국산업인력공단
     - 2023.11.15.
   
   #
@@ -108,12 +110,16 @@
   : MySQL, Firebase, MongoDB, Oracle(PL/SQL)
 
   - Cooperation <br/>
-  : Git / Github, JIRA, Figma
+  : Git / Github, Jira, Figma
+
+  - ETC <br/>
+  : Oracle 12C EBS ERP, MyBuilder
   
   #### 🌱 NOW I am Interested in
-  - PWA
-  - CDN
-  - Webpack
+  - PWA (Progressive Web App)
+  - ⚡ MCP (Model Context Protocol)
+  - ⚡ RAG (Retrieval-Augmented Generation)
+  - How to use LLM smartly at work and life
 
   #
   
@@ -123,7 +129,7 @@
   #
   
   #### Trophy 🏆
-  ![trophy](https://github-profile-trophy.vercel.app/?username=lookinmin)
+  [![trophy]](https://github-profile-trophy.vercel.app/?username=lookinmin)
 
   </div>
 </div>
