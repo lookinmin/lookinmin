@@ -87,11 +87,11 @@
   #
 
   #### Certificate - 취득 자격증, 어학
-  1. SQL개발자 (SQLD) - 한국데이터산업진흥원
+  1. SQL개발자 (SQLD) - 한국데이터산업진흥원 <br/>
     - 2024.09.20.
-  2. OPIc IH(Intermediate High) - ACTFL
+  2. OPIc IH(Intermediate High) - ACTFL <br/>
     - 2024.05.07.
-  3. 정보처리기사 - 한국산업인력공단
+  3. 정보처리기사 - 한국산업인력공단 <br/>
     - 2023.11.15.
   
   #
