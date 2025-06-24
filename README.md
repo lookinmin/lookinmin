@@ -73,7 +73,7 @@
   #
 
   #### History after 20 - 연혁
-  1. 2025.02 - 서울우유협동조합 경영정보팀 입사
+  1. 2025.02 - 서울우유협동조합 경영정보팀 재직
   2. 2024.02 - 충북대학교 소프트웨어학과 학사 졸업
   3. 2023 - 충북대학교 전자정보대학 제 22대 SUMMIT 학생회 복지국장<br/>
             충북대학교 소프트웨어학과 PDA-PRO 동아리 학습부장
@@ -111,7 +111,7 @@
   : MySQL, Firebase, MongoDB, Oracle(PL/SQL)
 
   - Cooperation <br/>
-  : Git / Github, Jira, Figma
+  : Git / Github, Jira, Figma, SVN
 
   - ETC <br/>
   : Oracle 12C EBS ERP, MyBuilder
